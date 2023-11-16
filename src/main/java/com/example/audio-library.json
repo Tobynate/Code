@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Cement Lunch",
+		"artist": "Ava Luna",
+		"year": "2018",
+		"genre": "Indie Rock",
+		"isFavorite": false,
+		"filePath": "ava-luna-crop.wav"
+	},
+	{
+		"title": "Journey of King",
+		"artist": "Bisou",
+		"year": "2020",
+		"genre": "Electronic",
+		"isFavorite": true,
+		"filePath": "bisou-crop.wav"
+	},
+	{
+		"title": "Tanzen",
+		"artist": "Checkie Brown",
+		"year": "2019",
+		"genre": "Funk",
+		"isFavorite": true,
+		"filePath": "checkie-brown1-crop.wav"
+	},
+	{
+		"title": "Wirklich Wichtig",
+		"artist": "Checkie Brown",
+		"year": "2021",
+		"genre": "Pop",
+		"isFavorite": false,
+		"filePath": "checkie-brown2-crop.wav"
+	},
+	{
+		"title": "Welcome",
+		"artist": "Kitkat Club",
+		"year": "2022",
+		"genre": "Dance",
+		"isFavorite": true,
+		"filePath": "kit-kat-crop.wav"
+	},
+	{
+		"title": "El Preso Numero Nueve",
+		"artist": "Kathleen Martin",
+		"year": "2017",
+		"genre": "Folk",
+		"isFavorite": true,
+		"filePath": "kathleen-crop.wav"
+	},
+	{
+		"title": "Storybook",
+		"artist": "Scott Holmes",
+		"year": "2020",
+		"genre": "Ambient",
+		"isFavorite": false,
+		"filePath": "scott-crop.wav"
+	},
+	{
+		"title": "Burn-It-Down",
+		"artist": "Mid Air Machine",
+		"year": "2019",
+		"genre": "Electronic",
+		"isFavorite": true,
+		"filePath": "mid-air-crop.wav"
+	},
+	{
+		"title": "Vacaciones Salsa",
+		"artist": "Dee Yan",
+		"year": "2021",
+		"genre": "Salsa",
+		"isFavorite": true,
+		"filePath": "dee-yan-crop.wav"
+	},
+	{
+		"title": "Zumbido",
+		"artist": "The Dubbstyle",
+		"year": "2018",
+		"genre": "Reggae",
+		"isFavorite": true,
+		"filePath": "dubb-style-crop.wav"
+	}
+]

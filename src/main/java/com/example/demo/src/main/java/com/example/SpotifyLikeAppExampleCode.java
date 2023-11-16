@@ -1,4 +1,4 @@
-package com.example;
+package com.example.demo.src.main.java.com.example;
 
 import static javax.sound.sampled.AudioSystem.*;
 
